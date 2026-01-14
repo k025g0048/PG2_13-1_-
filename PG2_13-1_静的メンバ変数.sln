@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PG2_13-1_静的メンバ変数", "PG2_13-1_静的メンバ変数.vcxproj", "{ABC2F015-CBF8-44D3-B009-4753D62D2F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Develop|x64 = Develop|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Debug|x64.ActiveCfg = Debug|x64
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Debug|x64.Build.0 = Debug|x64
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Develop|x64.ActiveCfg = Develop|x64
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Develop|x64.Build.0 = Develop|x64
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Release|x64.ActiveCfg = Release|x64
+		{ABC2F015-CBF8-44D3-B009-4753D62D2F57}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {346401CB-B875-4804-B6CF-FDB2CEA6ACB8}
+	EndGlobalSection
+EndGlobal
